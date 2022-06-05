@@ -1,0 +1,4 @@
+def doub():
+    print(random.randint(0,6))
+doub()
+doub()
