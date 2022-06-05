@@ -1,0 +1,4 @@
+"""Single Die generator"""
+def sing ():
+    print(random.randint(0,6))
+sing()
