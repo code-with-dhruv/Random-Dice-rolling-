@@ -1,0 +1,6 @@
+"""Random number Generator between Two values"""
+import random 
+def Rando(a,b):
+    print(random.randint(a,b))
+a=int(input("Set Lower Limit --> "))
+b=int(input("Set Upper Limit --> "))
